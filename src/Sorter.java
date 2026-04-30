@@ -40,4 +40,5 @@ public class Sorter {
         int[] arr = new int[size];
         for (int i = 0; i < size; i++) {
             arr[i] = rand.nextInt(1000); }
-        return arr;}}
+        return arr;
+    }}

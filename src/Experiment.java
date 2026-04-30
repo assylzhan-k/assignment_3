@@ -31,6 +31,4 @@ public class Experiment {
             System.out.println("Quick (Sorted): " + measureSortTime(sorted, "advanced"));
             int target = sorted[size / 2];
             System.out.println("Binary Search: " + measureSearchTime(sorted, target));
-        }
-    }
-}
+        }}}
